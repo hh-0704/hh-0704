@@ -1,4 +1,4 @@
-🐤 just junior developer 🐤
+🐤 just junior developer 🐤   
 ✏️ studying back-end engineer ✨
 ---
   
