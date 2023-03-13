@@ -17,7 +17,7 @@
 ---
 
 <div>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hh-0704&layout=compac&theme=dark/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hh-0704&layout=compact"/>
 </div>
 
 ---
