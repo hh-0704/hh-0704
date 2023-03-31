@@ -1,10 +1,10 @@
-🐤 just junior developer 🐤   
-✏️ studying back-end engineer ✨
+## 🐤 just junior developer 🐤   
+### ✏️ studying back-end engineer ✨
 
 ---
   
   
-📝 studying 📝  
+### 📝 studying 📝  
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
@@ -22,8 +22,11 @@
 </div>
 
 ---
+## 🗊study memo notion
+<a href="https://develop-hh.notion.site/hh-0704-Develop-a6bb8c049c5d4d819ec3c79ea2e980d7" target="_blank"><img src="https://img.shields.io/badge/Notion-#00000?style=square&logo=Notion&logoColor=white"/></a>
+---
 
-👍 Thanks for Watching 👍
+### 👍 Thanks for Watching 👍
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhh-0704&count_bg=%23C83D3D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
