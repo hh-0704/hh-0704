@@ -23,7 +23,8 @@
 
 ---
 ## 🗊study memo notion
-<a href="https://develop-hh.notion.site/hh-0704-Develop-a6bb8c049c5d4d819ec3c79ea2e980d7" target="_blank"><img src="https://img.shields.io/badge/Notion-#00000?style=square&logo=Notion&logoColor=white"/></a>
+<a href="https://develop-hh.notion.site/hh-0704-Develop-a6bb8c049c5d4d819ec3c79ea2e980d7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 ---
 
 ### 👍 Thanks for Watching 👍
