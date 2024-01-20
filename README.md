@@ -24,6 +24,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hh-0704&layout=compact)](https://github.com/hh-0704/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ghksl0704})](https://solved.ac/{ghksl0704})
 
 
 ---
