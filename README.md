@@ -48,5 +48,5 @@
 ### 👍 Thanks for Watching 👍
 
 
-![Visitor Count](https://profile-counter.glitch.me/hh-0704/count.svg)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fhh-0704?color=red&label=hits&size=medium)](https://myhits.vercel.app)
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhh-0704&count_bg=%23C83D3D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
